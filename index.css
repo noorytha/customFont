@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'SF Pro';
-  src: url('SF-Pro_1.woff2') format('woff2'),
-       url('SF-Pro_1.woff') format('woff');
+  font-family: 'Aplac';
+  src: url('SF-Pro.woff2') format('woff2'),
+       url('SF-Pro.woff') format('woff');
   font-weight: 1 1000;
   font-stretch: 30% 150%;
 }
