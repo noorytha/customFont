@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Aplac';
-  src: url('./fonts/aplac.woff2') format('woff2'),
-       url('./fonts/aplac.woff') format('woff');
+  src: url('./fonts/SF-Pro.woff2') format('woff2'),
+       url('./fonts/SF-pro.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
